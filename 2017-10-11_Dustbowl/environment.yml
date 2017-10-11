@@ -1,4 +1,5 @@
-hannels:
+name: dustbowl
+channels:
   - conda-forge
   - defaults
 dependencies:
@@ -9,5 +10,5 @@ dependencies:
   - netcdf4
   - matplotlib
   - xarray
-  - np_conda_kernels
   - pygdp
+  - nb_conda_kernels
