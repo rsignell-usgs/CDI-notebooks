@@ -1,4 +1,5 @@
-hannels:
+name: cdi
+channels:
   - conda-forge
   - defaults
 dependencies:
