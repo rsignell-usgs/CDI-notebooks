@@ -10,5 +10,4 @@ dependencies:
   - netcdf4
   - matplotlib
   - xarray
-  - np_conda_kernels
   - pygdp
